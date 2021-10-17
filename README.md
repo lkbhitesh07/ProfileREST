@@ -7,6 +7,8 @@ I have made in Django. Some functionalities of this app includes:-
 5. Unpause a profile.
 6. Pause a profile.
 
+I have used Postgresql database and have deployed it on heroku.
+Link - https://tomarji-profile-rest-wale.herokuapp.com/
 
 # How to setup
 
