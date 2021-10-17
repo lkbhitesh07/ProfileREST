@@ -79,8 +79,12 @@ WSGI_APPLICATION = 'ProfileREST.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'd533r8iu5t4c9g',
+        'USER':'epedosxjhbtytb',
+        'HOST':'ec2-54-154-101-45.eu-west-1.compute.amazonaws.com',
+        'PASSWORD':'f5d9d124f56c1cc843ecdf07609cb941ec0340cbbce1edba9db3bfd13448942b',
+        'PORT':'5432',
     }
 }
 
