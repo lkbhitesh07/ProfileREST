@@ -8,7 +8,10 @@ I have made in Django. Some functionalities of this app includes:-
 6. Pause a profile.
 
 I have used Postgresql database and have deployed it on heroku.
-Link - https://tomarji-profile-rest-wale.herokuapp.com/
+
+## Link - https://tomarji-profile-rest-wale.herokuapp.com/
+
+## Here is the video of detailed explanation regarding this project - https://youtu.be/fSJcTA84fAQ
 
 # How to setup
 
